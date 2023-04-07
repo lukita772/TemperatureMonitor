@@ -1,0 +1,17 @@
+/media/luca/LukStorage/LukStorage/Electronica/Codigos/repoTD2-TPS_v1/workspace/lpc_chip_175x_6x/inc/core_cm3.h:1405:22:NVIC_SetPriority	16	static
+/media/luca/LukStorage/LukStorage/Electronica/Codigos/repoTD2-TPS_v1/workspace/lpc_chip_175x_6x/inc/core_cm3.h:1532:26:SysTick_Config	16	static
+/media/luca/LukStorage/LukStorage/Electronica/Codigos/repoTD2-TPS_v1/workspace/lpc_chip_175x_6x/inc/iocon_17xx_40xx.h:151:20:Chip_IOCON_Init	16	static
+/media/luca/LukStorage/LukStorage/Electronica/Codigos/repoTD2-TPS_v1/workspace/lpc_chip_175x_6x/inc/iocon_17xx_40xx.h:190:20:Chip_IOCON_EnableOD	16	static
+/media/luca/LukStorage/LukStorage/Electronica/Codigos/repoTD2-TPS_v1/workspace/lpc_chip_175x_6x/inc/gpio_17xx_40xx.h:119:20:Chip_GPIO_GetPinState	16	static
+/media/luca/LukStorage/LukStorage/Electronica/Codigos/repoTD2-TPS_v1/workspace/lpc_chip_175x_6x/inc/gpio_17xx_40xx.h:132:20:Chip_GPIO_ReadPortBit	24	static
+/media/luca/LukStorage/LukStorage/Electronica/Codigos/repoTD2-TPS_v1/workspace/lpc_chip_175x_6x/inc/gpio_17xx_40xx.h:144:20:Chip_GPIO_SetPinDIROutput	16	static
+/media/luca/LukStorage/LukStorage/Electronica/Codigos/repoTD2-TPS_v1/workspace/lpc_chip_175x_6x/inc/gpio_17xx_40xx.h:156:20:Chip_GPIO_SetPinDIRInput	16	static
+../src/ProyetoTD1_v1.c:36:16:map	32	static
+../src/ProyetoTD1_v1.c:41:6:GPIO_SWITCH_Update	8	static
+../src/ProyetoTD1_v1.c:71:6:SysTick_Handler	48	static
+../src/ProyetoTD1_v1.c:161:16:get_ms	4	static
+../src/ProyetoTD1_v1.c:167:6:delay_ms	24	static
+../src/ProyetoTD1_v1.c:176:5:main	8	static
+../src/ProyetoTD1_v1.c:189:6:initializePins	16	static
+../src/ProyetoTD1_v1.c:209:6:initializeDisplay	8	static
+../src/ProyetoTD1_v1.c:223:6:InitHardware	16	static

@@ -1,0 +1,17 @@
+../src/mlx90621/mlx90621_driver.c:32:10:unsigned_16	16	static
+../src/mlx90621/mlx90621_driver.c:36:9:twos_16	24	static
+../src/mlx90621/mlx90621_driver.c:43:8:twos_8	16	static
+../src/mlx90621/mlx90621_driver.c:49:6:calculateTA	32	static
+../src/mlx90621/mlx90621_driver.c:56:6:checkConfig	16	static
+../src/mlx90621/mlx90621_driver.c:61:6:calculateTO	48	static
+../src/mlx90621/mlx90621_driver.c:91:6:readIR	152	static
+../src/mlx90621/mlx90621_driver.c:119:6:Chip_I2C_MasterPckRead	48	static
+../src/mlx90621/mlx90621_driver.c:131:6:readPTAT	24	static
+../src/mlx90621/mlx90621_driver.c:153:6:readCPIX	32	static
+../src/mlx90621/mlx90621_driver.c:171:6:initializeMLX90621	8	static
+../src/mlx90621/mlx90621_driver.c:185:6:measureTemperature	8	static
+../src/mlx90621/mlx90621_driver.c:201:6:readEEPROM	16	static
+../src/mlx90621/mlx90621_driver.c:206:6:writeTrimmingValue	16	static
+../src/mlx90621/mlx90621_driver.c:220:10:readConfig	32	static
+../src/mlx90621/mlx90621_driver.c:240:6:setConfiguration	16	static
+../src/mlx90621/mlx90621_driver.c:258:6:preCalculateConstants	24	static
