@@ -1,2 +1,2 @@
 # temperatureMonitor
-![DSC_1192](https://user-images.githubusercontent.com/117228370/230662257-b4c763a9-d901-40e3-8c78-6f7888afed94.JPG)
+![Sin título](https://user-images.githubusercontent.com/117228370/232904213-d81561f2-6446-4a92-93fd-a7fd56af7e78.png)
