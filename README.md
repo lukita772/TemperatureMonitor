@@ -6,4 +6,5 @@ To start the equipment, the 5v 3A power supply must be connected to the Jack-DC 
 correspondent at the top left of the main board, finally you should check
 that the input Jumper (Fig.1) is correctly connected.
 
+## Screenshots
 ![Sin título](https://user-images.githubusercontent.com/117228370/232904213-d81561f2-6446-4a92-93fd-a7fd56af7e78.png)
